@@ -1,6 +1,6 @@
 # The PSU Aerial Car Images Dataset
 
-This dataset provides a collection of labeled aerial images of vehicles taken from drones in the campus of Prince Sultan University. 
+This dataset provides a collection of labeled aerial images of vehicles taken from drones in the campus of Prince Sultan University, Saudi Arabia. 
 
 The PSU dataset was collected from two sources: an open dataset of aerial images available on Github repo 
 `Aerial-car-dataset, available online on: https://github.com/jekhor/aerial-cars-dataset`
