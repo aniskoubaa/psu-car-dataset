@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>03991.jpg</filename>
+	<path>/home/riotu/dl_gpu/models/research/object_detection/images/03991.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>814</xmin>
+			<ymin>425</ymin>
+			<xmax>915</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>
